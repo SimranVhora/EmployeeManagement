@@ -1,0 +1,11 @@
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\bin\Debug\net8.0\Employee.Core.deps.json
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\bin\Debug\net8.0\Employee.Core.dll
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\bin\Debug\net8.0\Employee.Core.pdb
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\Employee.Core.AssemblyInfoInputs.cache
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\Employee.Core.AssemblyInfo.cs
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\Employee.Core.csproj.CoreCompileInputs.cache
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\Employee.Core.dll
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\refint\Employee.Core.dll
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\Employee.Core.pdb
+E:\SilverTouch\Employee\EmployeeManagement\Employee.Data\obj\Debug\net8.0\ref\Employee.Core.dll

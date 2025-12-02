@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\dtos\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\dtos\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\dtos\\employeefilterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\dtos\\employeefilterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3670C98A-14E1-41DE-9F00-35FFB29DF00F}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\dtos\\employeeprojectsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\dtos\\employeeprojectsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\employee.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\employee.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\entities\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\entities\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3459C5-8329-4A66-AB5A-A584A1539FB8}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\entities\\employeedetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\entities\\employeedetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\entities\\employeeprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\entities\\employeeprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\entities\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\entities\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.infrastructure\\employee.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E52AE7D7-5AB7-4495-BBA6-5A3EB5A1C535}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\employee.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BBE2BA-1407-42F3-9AAE-DE10292C82C2}|Employee.Data\\Employee.Core.csproj|e:\\silvertouch\\employee.api\\employeemanagement\\employee.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BBE2BA-1407-42F3-9AAE-DE10292C82C2}|Employee.Data\\Employee.Core.csproj|solutionrelative:employee.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T18:42:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T18:42:21.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:20:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Application\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA/wE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:10:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:58:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAEwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:17:47.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeRequest.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\AddEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\DTOs\\AddEmployeeRequest.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\AddEmployeeRequest.cs",
+              "RelativeToolTip": "Employee.Application\\DTOs\\AddEmployeeRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:08:08.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeFilterRequestDto.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\EmployeeFilterRequestDto.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\DTOs\\EmployeeFilterRequestDto.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\EmployeeFilterRequestDto.cs",
+              "RelativeToolTip": "Employee.Application\\DTOs\\EmployeeFilterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:14:23.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T17:00:06.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Entities\\Employees.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\Employees.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Entities\\Employees.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:02:12.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeProjectSummaryDTO.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\EmployeeProjectSummaryDTO.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\DTOs\\EmployeeProjectSummaryDTO.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\EmployeeProjectSummaryDTO.cs",
+              "RelativeToolTip": "Employee.Application\\DTOs\\EmployeeProjectSummaryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:08:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "Employee.Application\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:07:14.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Employee.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:58:02.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Entities\\EmployeeDbContext.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Entities\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:54:35.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDetailsView.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\EmployeeDetailsView.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Entities\\EmployeeDetailsView.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\EmployeeDetailsView.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Entities\\EmployeeDetailsView.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA/wAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:02:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\Projects.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Entities\\Projects.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\Projects.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Entities\\Projects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:05:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeProjects.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\EmployeeProjects.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Entities\\EmployeeProjects.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\EmployeeProjects.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Entities\\EmployeeProjects.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:02:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\Departments.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Entities\\Departments.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Entities\\Departments.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Entities\\Departments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:55:57.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.Application.csproj",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj",
+              "RelativeDocumentMoniker": "Employee.Application\\Employee.Application.csproj",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj",
+              "RelativeToolTip": "Employee.Application\\Employee.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T14:56:30.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "RelativeToolTip": "Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T14:42:53.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Employee.Data\\Class1.cs",
+              "ToolTip": "E:\\SilverTouch\\Employee.API\\EmployeeManagement\\Employee.Data\\Class1.cs",
+              "RelativeToolTip": "Employee.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:28:13.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
