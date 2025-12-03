@@ -17,3 +17,12 @@ public partial class EmployeeProjects
 
     public virtual Projects Project { get; set; } = null!;
 }
+internal class EmployeeProjectSummaryDTO
+{
+    public int EmployeeID { get; set; }
+    public string FirstName { get; set; } = string.Empty;
+    public string LastName { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
+    public string DepartmentName { get; set; } = string.Empty;
+    public int ProjectCount { get; set; }
+}

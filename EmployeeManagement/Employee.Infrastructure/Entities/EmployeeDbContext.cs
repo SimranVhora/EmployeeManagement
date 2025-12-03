@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Employee.Infrastructure.Entities;
 
@@ -97,7 +95,7 @@ public partial class EmployeeDbContext : DbContext
 
             entity.Property(e => e.ProjectName).HasMaxLength(200);
         });
-
+        modelBuilder.Entity<EmployeeProjectSummaryDTO>().HasNoKey();
         OnModelCreatingPartial(modelBuilder);
     }
 

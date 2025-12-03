@@ -1,9 +1,10 @@
 ﻿namespace Employee.Application.DTOs;
-public record EmployeeProjectSummaryDTO(
-    int EmployeeID,
-    string FirstName,
-    string LastName,
-    string Email,
-    string DepartmentName,
-    int ProjectCount
-);
+public class EmployeeProjectSummaryDTO
+{
+    public int EmployeeID { get; set; }
+    public string FirstName { get; set; } = string.Empty;
+    public string LastName { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
+    public string DepartmentName { get; set; } = string.Empty;
+    public int ProjectCount { get; set; }
+}
